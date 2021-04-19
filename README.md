@@ -24,5 +24,4 @@ The purpose of this project was to filter video game review ccontent and determi
 
 ## Summary
 
-We found that 51% of reviews in the Vine program were 5 star, compared to 38.7%  for non-Vine users. This constitutes a bias in the Vine program. 
-
+We found that 51% of reviews in the Vine program were 5 star, compared to 38.7%  for non-Vine users. This constitutes a bias in the Vine program. We would love to see rating system broken down by verified_purchase. Perhaps reviewers who actually bought the game have spent more time with it, and therefore had a more genuine opinion of the game, rather than someone who has only briefly played it.
