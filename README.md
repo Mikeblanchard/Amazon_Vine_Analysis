@@ -18,4 +18,5 @@
 ![](https://github.com/Mikeblanchard/Amazon_Vine_Analysis/blob/main/Resources/Chal_16-4.png%20.png)
 
 
-## Summary
+## Summar
+
