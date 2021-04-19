@@ -1,6 +1,6 @@
 # Amazon_Vine_Analysis
 
-
+A copy of the review ETL found [here](https://github.com/Mikeblanchard/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_ETL.ipynb) and the analysis [here](https://github.com/Mikeblanchard/Amazon_Vine_Analysis/blob/main/Vine_Review_Analysis.ipynb)
 
 ## Overview of Analysis 
 
