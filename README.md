@@ -8,9 +8,11 @@ The purpose of this project was to filter video game review ccontent and determi
 
 ## Results
 
-Initailly we further sepaprated the dataframe into Vine and Non-Vine users:
+- Initailly we further sepaprated the dataframe into Vine and Non-Vine users:
+- 
 ![](https://github.com/Mikeblanchard/Amazon_Vine_Analysis/blob/main/Resources/Chal_16.png%20.png)![](https://github.com/Mikeblanchard/Amazon_Vine_Analysis/blob/main/Resources/Chal_16-5.png%20.png)
 
+- Then we looked at the total number of reviews and an edited "useful" number of reviews.:
 
 ![](https://github.com/Mikeblanchard/Amazon_Vine_Analysis/blob/main/Resources/Chal_16-2.png%20.png)
 
